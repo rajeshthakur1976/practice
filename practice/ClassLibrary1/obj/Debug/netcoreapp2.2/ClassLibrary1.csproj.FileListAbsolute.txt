@@ -1,0 +1,8 @@
+D:\INTERVIEW_PREPERATION\POC\POC\ClassLibrary1\bin\Debug\netcoreapp2.2\ClassLibrary1.deps.json
+D:\INTERVIEW_PREPERATION\POC\POC\ClassLibrary1\bin\Debug\netcoreapp2.2\ClassLibrary1.dll
+D:\INTERVIEW_PREPERATION\POC\POC\ClassLibrary1\bin\Debug\netcoreapp2.2\ClassLibrary1.pdb
+D:\INTERVIEW_PREPERATION\POC\POC\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.csprojAssemblyReference.cache
+D:\INTERVIEW_PREPERATION\POC\POC\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.AssemblyInfoInputs.cache
+D:\INTERVIEW_PREPERATION\POC\POC\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.AssemblyInfo.cs
+D:\INTERVIEW_PREPERATION\POC\POC\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.dll
+D:\INTERVIEW_PREPERATION\POC\POC\ClassLibrary1\obj\Debug\netcoreapp2.2\ClassLibrary1.pdb
