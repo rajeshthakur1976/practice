@@ -1,0 +1,32 @@
+F:\Personal_Code_Work\WorkThrough_Sample\Asp.Net_Core\Azure_Related\BlobStorage_File_Upload\DataContext\bin\Debug\netcoreapp3.1\DataContext.deps.json
+F:\Personal_Code_Work\WorkThrough_Sample\Asp.Net_Core\Azure_Related\BlobStorage_File_Upload\DataContext\bin\Debug\netcoreapp3.1\DataContext.runtimeconfig.json
+F:\Personal_Code_Work\WorkThrough_Sample\Asp.Net_Core\Azure_Related\BlobStorage_File_Upload\DataContext\bin\Debug\netcoreapp3.1\DataContext.runtimeconfig.dev.json
+F:\Personal_Code_Work\WorkThrough_Sample\Asp.Net_Core\Azure_Related\BlobStorage_File_Upload\DataContext\bin\Debug\netcoreapp3.1\DataContext.dll
+F:\Personal_Code_Work\WorkThrough_Sample\Asp.Net_Core\Azure_Related\BlobStorage_File_Upload\DataContext\bin\Debug\netcoreapp3.1\DataContext.pdb
+F:\Personal_Code_Work\WorkThrough_Sample\Asp.Net_Core\Azure_Related\BlobStorage_File_Upload\DataContext\obj\Debug\netcoreapp3.1\DataContext.AssemblyInfoInputs.cache
+F:\Personal_Code_Work\WorkThrough_Sample\Asp.Net_Core\Azure_Related\BlobStorage_File_Upload\DataContext\obj\Debug\netcoreapp3.1\DataContext.AssemblyInfo.cs
+F:\Personal_Code_Work\WorkThrough_Sample\Asp.Net_Core\Azure_Related\BlobStorage_File_Upload\DataContext\obj\Debug\netcoreapp3.1\DataContext.csproj.CoreCompileInputs.cache
+F:\Personal_Code_Work\WorkThrough_Sample\Asp.Net_Core\Azure_Related\BlobStorage_File_Upload\DataContext\obj\Debug\netcoreapp3.1\DataContext.dll
+F:\Personal_Code_Work\WorkThrough_Sample\Asp.Net_Core\Azure_Related\BlobStorage_File_Upload\DataContext\obj\Debug\netcoreapp3.1\DataContext.pdb
+F:\Personal_Code_Work\WorkThrough_Sample\Asp.Net_Core\Azure_Related\BlobStorage_File_Upload\DataContext\obj\Debug\netcoreapp3.1\DataContext.genruntimeconfig.cache
+F:\Personal_Code_Work\WorkThrough_Sample\Asp.Net_Core\Azure_Related\BlobStorage_File_Upload\DataContext\obj\Debug\netcoreapp3.1\DataContext.csprojAssemblyReference.cache
+C:\Users\inrthakur\Desktop\New folder (2)\BlobStorage_File_Upload_3.1\DataContext\bin\Debug\netcoreapp3.1\DataContext.deps.json
+C:\Users\inrthakur\Desktop\New folder (2)\BlobStorage_File_Upload_3.1\DataContext\bin\Debug\netcoreapp3.1\DataContext.runtimeconfig.json
+C:\Users\inrthakur\Desktop\New folder (2)\BlobStorage_File_Upload_3.1\DataContext\bin\Debug\netcoreapp3.1\DataContext.runtimeconfig.dev.json
+C:\Users\inrthakur\Desktop\New folder (2)\BlobStorage_File_Upload_3.1\DataContext\bin\Debug\netcoreapp3.1\DataContext.dll
+C:\Users\inrthakur\Desktop\New folder (2)\BlobStorage_File_Upload_3.1\DataContext\bin\Debug\netcoreapp3.1\DataContext.pdb
+C:\Users\inrthakur\Desktop\New folder (2)\BlobStorage_File_Upload_3.1\DataContext\obj\Debug\netcoreapp3.1\DataContext.csprojAssemblyReference.cache
+C:\Users\inrthakur\Desktop\New folder (2)\BlobStorage_File_Upload_3.1\DataContext\obj\Debug\netcoreapp3.1\DataContext.AssemblyInfoInputs.cache
+C:\Users\inrthakur\Desktop\New folder (2)\BlobStorage_File_Upload_3.1\DataContext\obj\Debug\netcoreapp3.1\DataContext.AssemblyInfo.cs
+C:\Users\inrthakur\Desktop\New folder (2)\BlobStorage_File_Upload_3.1\DataContext\obj\Debug\netcoreapp3.1\DataContext.dll
+C:\Users\inrthakur\Desktop\New folder (2)\BlobStorage_File_Upload_3.1\DataContext\obj\Debug\netcoreapp3.1\DataContext.pdb
+D:\INTERVIEW_PREPERATION\POC\POC\DataContext\bin\Debug\netcoreapp3.1\DataContext.deps.json
+D:\INTERVIEW_PREPERATION\POC\POC\DataContext\bin\Debug\netcoreapp3.1\DataContext.runtimeconfig.json
+D:\INTERVIEW_PREPERATION\POC\POC\DataContext\bin\Debug\netcoreapp3.1\DataContext.runtimeconfig.dev.json
+D:\INTERVIEW_PREPERATION\POC\POC\DataContext\bin\Debug\netcoreapp3.1\DataContext.dll
+D:\INTERVIEW_PREPERATION\POC\POC\DataContext\bin\Debug\netcoreapp3.1\DataContext.pdb
+D:\INTERVIEW_PREPERATION\POC\POC\DataContext\obj\Debug\netcoreapp3.1\DataContext.csprojAssemblyReference.cache
+D:\INTERVIEW_PREPERATION\POC\POC\DataContext\obj\Debug\netcoreapp3.1\DataContext.AssemblyInfoInputs.cache
+D:\INTERVIEW_PREPERATION\POC\POC\DataContext\obj\Debug\netcoreapp3.1\DataContext.AssemblyInfo.cs
+D:\INTERVIEW_PREPERATION\POC\POC\DataContext\obj\Debug\netcoreapp3.1\DataContext.dll
+D:\INTERVIEW_PREPERATION\POC\POC\DataContext\obj\Debug\netcoreapp3.1\DataContext.pdb
